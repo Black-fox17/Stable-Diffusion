@@ -23,7 +23,7 @@ By maximizing the ELBO, we ensure that our model accurately captures the data wh
 ### Importance of Statistics in GANs
 Generative Adversarial Networks (GANs) are a fascinating type of model that generates new data similar to a given dataset. I learned how statistics play a vital role in GANs. A GAN consists of two parts:
 1. **Generator:** Creates fake data.
-2. **Discriminator:** Tries to distinguish between real and fake data.
+2. **Discriminator:** Tries to distinguish between real  and fake data.
 
 The generator improves by trying to fool the discriminator, while the discriminator gets better at spotting fakes. This adversarial process is statistically grounded, and understanding concepts like probability distributions and optimization techniques is key to mastering GANs.
 
