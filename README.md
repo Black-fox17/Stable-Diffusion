@@ -49,4 +49,13 @@ The total loss is a balance between accurately recreating the input and maintain
 
 ---
 
+## Day 2:
+I coded the VAE Auto Encoder, implemented the attention is all you need paper, though i have done something simmilar in my previous tutorial under the Gpt 3 implementation by Andrej Karpathy.
+But this shows a faster and easier way to do it.
+Also i learnt about SILU another form of activation function somehow similar to Relu but due to some reaserch purposes, it is widely consider for the implementatiobn of VAE over Relu.
+
+## Day 3:
+Today September 5 2:32 AM i will be building the CLIP(COntrastive Language Image Pretaraining).
+The CLIP is a lot similar to the transformer(Attention) as it inherits quite a lot of stuff from it, ALso this is my first time hearing about the GELU activation function which inherits from The Sigmoid Activation Function.
+
 This README is a work in progress, and I'll continue to update it as I learn more. If you’re interested in the technical details or want to follow along, feel free to explore the code and resources linked here!
